@@ -51,6 +51,9 @@
           </v-card>
         </v-col>
        </v-row>
+       <v-row>
+        <p>Credit To: {{ recipe.creditTo }}</p>
+       </v-row>
       </v-container>  
       
 

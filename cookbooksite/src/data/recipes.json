@@ -84,6 +84,1535 @@
             "creditTo": "Modified from Quick Cooking Annual 2002",
             "creator": "mamalinda",
             "image": "calzone.jpeg"
+        },
+        {
+            "id": "3",
+            "name": "Hint of Honey Honey Wheat Bread",
+            "type": "Pastry",
+            "ingredients": [
+                {
+                    "ingredientText": "1 1/2 cups warm water (110-110 F)",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1/4 cup honey",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 Tbsp. active dry yeast (I use 1 packet of instant yeast)",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "2 cups whole wheat flour",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1 tsp salt",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1 1/2 - 2 cups white whole wheat flour (I use all purpose flour)",
+                    "index": 5
+                }
+            ],
+            "directions":[
+                "Combine honey and warm water in a large glass or plastic bowl. Add yeast and let sit 10 minutes or until frothy. For instant yeast, just combine the water and honey. The yeast goes in the dry ingredients.",
+                "Add the 2 cups of whole wheat flour, and stir until no dry clumps remain. Cover and let sit at least 30 minutes until bubbly.",
+                "Stir in the salt and 1 cup of while whole wheat flour, mixing until the dough pulls away from the side of the bowl. Turn dough out onto a lightly floured surface and knead, adding the remaining flour as necessary as necessary to prevent sticking, 8-10 minutes until smooth (I usually add the remaining flour before kneading). Return dough to a lightly greased bowl, cover, and let rise in a warm place 1 hour, or until doubled in size.",
+                "Lightly grease a 9x5 inch loaf pan with cooking spray. Punch down the dough and form into a log (I press the dough out and roll into a log). Place dough into bottom of the loaf pan and cover with greased plastic wrap. Let rise in a warm place for 1 hour or until doubled.",
+                "Preheat oven to 350 F. Bake in preheated oven for 30-35 minutes, until golden brown on top (the loaf will sound hollow when tapped). Remove from pan to cool on wire rack. Cool completely before slicing."
+            ],
+            "creditTo": "ahintofhoney.com",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "4",
+            "name": "Hot Air Popper Popcorn",
+            "type": "Snack",
+            "ingredients": [
+                {
+                    "ingredientText": "1/2 cup of popcorn kernels",
+                    "index": 0
+                }
+            ],
+            "directions":[ "Add popcorn to hot Air Popper. Plug in the Popper and let it pop."],
+            "creditTo": "Hot Air Popper directions",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "5",
+            "name": "JoJo's Biscuits",
+            "type": "Pastry",
+            "ingredients": [
+                {
+                    "ingredientText": "4 cups Flour",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "2 tablespoons baking powder",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 teaspoon baking soda",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "3 sticks butter",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "2 large eggs plus 1 egg for brushing",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1.5 cups Buttermilk plus 1 tablespoon for brushing ",
+                    "index": 5
+                }
+            ],
+            "directions":[
+                "In a large bowl, wisk together flour, baking powder, and baking soda.",
+                "Add butter and use a pastry blender to cut the butter into the flour until thr pieces are even and about the size of peas.",
+                "Stir in the beaten eggs with a spoon until combined. Stir in Buttermilk until dough comes together into a sticky mass. If it is too dry, add more Buttermilk until it reached thr correct consistency. Cover the bowl and refrigerate for at least 30 minutes to overnight.",
+                "Preheat the oven to 400°F. Line baking sheet with parchment paper.",
+                "Scrape dough onto floured work surface. Use your floured hands to press it into a circle about .5 inches thick.",
+                "Cut biscuits.",
+                "Transfer biscuits to baking sheet.",
+                "In a small dish, best together the remaining egg snd Buttermilk and brush over biscuits.",
+                "Bake 15 to 20 minutes."
+            ],
+            "creditTo": "Joanna Gaines",
+            "creator": "sueodom",
+            "image": ""
+        },
+        {
+            "id": "6",
+            "name": "Overnight French Toast",
+            "type": "Breakfast",
+            "ingredients": [
+                {
+                    "ingredientText": "1 stick butter",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 to 2 loaves Italian bread",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "10 eggs",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "2 cups heavy cream",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1 cup milk",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1/2 cup granulated sugar ",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "2 teaspoons vanilla or almond extract",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "1 cup brown sugar",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "1/2 cup flour",
+                    "index": 8
+                }
+            ],
+            "directions":[
+                "1. Grease 9x13 pan and arrange bread slices in dish. ",
+                "2. Beat eggs in bowl. Add cream, milk, granulated sugar, and extract. Pour over bread. Cover and refrigerate overnight.",
+                "3. Preheat oven to 375°F. ",
+                "4. Place brown sugar and flour in bowl with softened butter and mix. Sprinkle on French toast. ",
+                "5. Bake for 35 to 40 minutes. "
+            ],
+            "creditTo": "Joanna Gaines",
+            "creator": "sueodom",
+            "image":""
+        },
+        {
+            "id": "7",
+            "name": "Chicken Pot Pie",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "4 tablespoons butter",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "Small white onion",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "4 carrots",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1/4 cup flour",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "2 32 ounces box chicken broth",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "2 22.6 ounce cans cream of chicken or mushroom",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "4 cups shredded chicken",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "1 cup frozen peas",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "Salt and Pepper",
+                    "index": 8
+                },
+                {
+                    "ingredientText": "1 can cresent rolls ",
+                    "index": 9
+                }
+            ],
+            "directions":[
+                "1. Preheat oven to 375°F and spray a 9x13 pan. ",
+                "2. In a large pot, melt butter. Add onion and cook till transparent. Add carrots and cook till soften. Stir in flour.",
+                "3. Wisk in chicken broth until flour is incorporated. Stir in condensed soup. Bring to boil and simmer for 5 minutes. ",
+                "4. Remove from heat and add chicken and peas. Season to taste. Pour into baking dish. ",
+                "5. Cover with Cresent rolls and bake for 15 to 20 minutes. "
+            ] ,
+            "creditTo": "Joanna Gaines",
+            "creator": "sueodom",
+            "image":""
+        },
+        {
+            "id": "8",
+            "name": "Alfredo Sauce",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "1 stick butter ",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "Garlic to taste",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "2 cupes heavy cream",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1/4 teaspoon white pepper ",
+                    "index": 3
+                }
+            ],
+            "directions": [
+                "1. Melt butter in sauce pan. Add garlic until aromatic.  ",
+                "2. Wisk cream and cook over low heat until bubbling and tickened.",
+                "3. Wisk in parmesan and white pepper until well combined. ",
+                "4. Serve with pasta. "
+            ],
+            "creditTo": "Joanna Gaines",
+            "creator": "sueodom",
+            "image":""
+        },
+        {
+            "id": "9",
+            "name": "Italian Chicken and Rice",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "2/3 cup biscuit/baking mix",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1/3 cup grated Parmesan cheese",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 teaspoon paprika",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "6 boneless skinless chicken breast halves (1-1/2 pounds)",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "2 cups boiling water",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "2 cups uncooked instant rice",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "1 teaspoon salt, optional",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "2 tablespoons butter or margarine, melted",
+                    "index": 7
+                }
+            ],
+            "directions": [
+                "In a large resealable plastic bag or shallow bowl, combine the first 4 ingredients. ",
+                "Place 1/3 cup mn in another bowl. Dip chicken in milk, the coat with the cheese mixture. ",
+                "In a greased 9 x 13 inch baking dish, combine water, rice, salt if desired and remaining milk; mix well. ",
+                "Top with chicken. Drizzle with butter. ",
+                "Bake, uncovered, at 425 degrees for 25-30 minutes or until the rice is tender and chicken juices run clear."
+            ],
+            "creditTo": "Quick Cooking 1999 Annual ",
+            "creator": "mamalinda",
+            "image":""
+        },
+        {
+            "id": "10",
+            "name": "Santa Fe Chicken",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "1 large onion, chopped",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 tablespoon butter or margarine",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1-1/4 cups chicken broth",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1 cup uncooked long grain rice",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1/8 teaspon garlic powder",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "4 boneless skinless chicken breast halves (about 1 pound)",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "3/4 cup shredded cheddar cheese",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "1 cup salsa",
+                    "index": 7
+                }
+            ],
+            "directions": [
+                "In  a large skillet, saute onion in butter until tender. Add broth and salsa; bring to a boil.",
+                "Stir in rice and garlic powder. Place chicken over rice; cover and simmer for 10 minutes. ",
+                "Turn chicken; cook 10-15 minutes longer or until meat juices run clear. Remove from the heat. ",
+                "Sprnkle with cheese; cover and let stand for 5 minutes.  ",
+                "Yield 4 servings."
+            ],
+            "creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image":""
+        },
+        {
+            "id": "11",
+            "name": "Ravioli Casserole",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "1 jar (28 oz) spaghetti sauce",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 package (25 oz) frozen cheese ravioli",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "2 cups (16 oz) small-curd cottage cheese",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "4 cups(16 oz) shredded mozzarella chees3",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1/4 cup grated Pamesan cheese",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1 pound cooked and drained sausage",
+                    "index": 5
+                }
+            ],
+            "directions": [
+                "Spread 1/2 cup of spaghetti sauce in an ungreased 9 x 13 inch baking dish. ",
+                "Layer with half the ravioli, 1-1/4 cups of sauce, 1 cup cottage cheese, 2 cups mozzarella cheese, half the sausage. ",
+                "Repeat layers. Sprinkle with Parmesan cheese. ",
+                "Bake, uncovered, at 350 degrees for 30-40 minutes or until bubbly. Let stand 5-10 minutes before serving."
+            ],
+            "creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image" : ""
+        },
+        {
+            "id": "12",
+            "name": "Southwestern Chicken",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "2 cans (15-1/4 oz each) whole kernel corn, drained (I use frozen corn)",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 can (15 oz ) black beans, rinsed and drained",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 jar (16 oz) chunky salsa, divided",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "6 boneless skinless chicken breast halves",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1 cup (4 oz) shredded cheddar cheese",
+                    "index": 4
+                }
+            ],
+            "directions": ["Combine the corn, black beans, and 1/2 cup salsa in a slow cooker. ",
+            "Top with chicken; pour the remaning salsa over the chicken. ",
+            "Cover and cook on high for 3-4 hours or on low for 7-8 hours or until meat juices run clear. ",
+            "Sprinkle with cheese; cover until cheese is melted, about 5 minutes."],
+            "creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image":""
+        },
+        {
+            "id": "13",
+            "name": "Fast Baked Fish",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "1-1/4  pounds fish fillets",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 teaspoon seasoned salt",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "Pepper to taste",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "Paprika,optional",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "3 tablespoons butter or margarine, melted",
+                    "index": 4
+                }
+            ],
+            "directions": ["Place fish in a greased 11 x 7 inch baking dish. ",
+            "Sprinkle with seasoned salt, pepper and paprika  if desired. Drizzle with butter. ",
+            "Cover an bake at 400 degrees for 15-20 minutes or until fish flakes easily with a fork. ",
+            "Yield: 4 servings"],
+            "creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image":""
+        },
+        {
+            "id": "14",
+            "name": "Frozen Blueberry Muffins",
+            "type": "Breakfast",
+            "ingredients": [
+                {
+                    "ingredientText": "4 cups all-purpose flour",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "4 teaspoons baking powder",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1/2 teaspoon salt",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1 cup butter or margarine, softened",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "2 cups sugar",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "4 eggs",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "1 cup milk",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "2 teaspoons vanilla",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "2 cups frozen blueberries, unthawed (fresh blueberries can be used)",
+                    "index": 8
+                },
+                {
+                    "ingredientText": "Topping:  2 tablespoons sugar and 1/2 teaspoon ground nutmeg combined",
+                    "index": 9
+                }
+            ],
+            "directions": [
+                "In a large mixing bowl, combine the flour, baking powder and salt.",
+                "In a mixing bowl, cream butter and sugar. ",
+                "Add eggs, milk and vanilla; mix well. ",
+                "Stir in the dry ingredients just until moistened. Fold in frozen bluberries. ",
+                "Fill greased or paper-lined muffin cups 2/3 full. Sprinkle Topping mixture over muffins. ",
+                "Bake at 375 degrees for 20-25 minutes or until muffins test done. ",
+                "Cool in pan or 10 minutesbefore removing to a wire rack.  ",
+                "Yield: about 2 dozen"
+        ],
+            "creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image":""
+        },
+        {
+            "id": "15",
+            "name": "Cherry Cheesecake Pie",
+            "type": "Dessert",
+            "ingredients": [
+                {
+                    "ingredientText": "2 packages (one 8 oz, one 3 oz) cream cheese, softened",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 cup confectioner's sugar",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 carton (8 oz) frozen whipped topping, thawed (Cool Whip)",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1 shortbread or graham cracker crust (8 or 9 inches)",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1 can (21 oz) cherry pie filling (any type of topping will work)",
+                    "index": 4
+                }
+            ],
+            "directions": [
+                "In a mixing bowl, beat cream cheese and sugar until smooth. ",
+                "Fold in whipped topping; spoon into crust. ",
+                "Top with pie filling (it works better to top as you eat it because it gets runny otherwise.) ",
+                "Refrigerate until serving.  ",
+                "Yield :  6-8 servings."
+            ],
+            "creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image":""
+        },
+        {
+            "id": "16",
+            "name": "Peanut Butter Apple Dip",
+            "type": "Snack",
+            "ingredients": [
+                {
+                    "ingredientText": "1 package (8 oz) cream cheese, softened",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 cup peanut butter",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 cup brown sugar",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1/ 4 cup milk",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "3-4 apples, cut in wedges",
+                    "index": 4
+                }
+            ],
+            "directions":[
+                "In a mixing bowl, combine the first 4 ingredients; mix well. ",
+                "Serve with apples. Store in refrigerator. ",
+                "Yield: 2-2/3 cups."
+            ],"creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image":""
+        },
+        {
+            "id": "17",
+            "name": "Picnic Bars",
+            "type": "Dessert",
+            "ingredients": [
+                {
+                    "ingredientText": "1-3/4 cups all-purpose flour",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 cup sugar",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1/4 cup baking cocoa",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1/2 cup cold butter or margarine",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "2 eggs",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1 can (14 oz)  sweetened condensed milk ",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "2 cups semisweet chocolate chips, divided",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "1 cup chopped walnuts",
+                    "index": 7
+                }
+            ],
+            "directions": [
+                "In a bowl, combine flour, sugar and cocoa; cut in butter until mixture resemble coarse crumbs",
+                "Stir in eggs",
+                "Set side 1-1/2 cups for topping",
+                "Press remaining crumb mixture into a greased 9 x 13 inch baking pan",
+                "Bake at 350 degrees for 6-8 minutes or until set",
+                "Meanwhile, in a saucepan, combine the mik and 1 cup of chocolate chips; cook and stir over low heat until melted",
+                "Carefull spread over crust",
+                "Combne reserved crumb mixture with nuts and remaining chocolate chips",
+                "Sprinkle over chocolate layer",
+                "Bake for 15-20 minutes or until top is set (chips will not look melted)",
+                "Cool before cutting",
+                "Yield: 3 dozen"
+            ],
+            "creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image": ""
+        },
+        {
+            "id": "18",
+            "name": "Speedy Brownies",
+            "type": "Dessert",
+            "ingredients": [
+                {
+                    "ingredientText": "2 cups sugar",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1-3/4 cups all-purpose flour",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1/2 cup baking cocoa",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1 teaspoon salt",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "5 eggs",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1 cup vegetable oil",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "1 teaspoon vanilla extract",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "1 cup semisweet chocolate chips",
+                    "index": 7
+                }
+            ],
+            "directions": [
+                "In a mixing bowl, combine the first 7 ingredients; beat until smooth",
+                "Pour into greased 9 x 13 baking pan",
+                "Sprinkle with chocolate chips",
+                "Bake at 350 degrees for 30 minutes or until a toothpick inserted near the center comes out clean",
+                "Cool in a pan on a wire rack",
+                "Yield: about 3 dozen"
+            ],
+            "creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image": ""
+        },
+        {
+            "id": "19",
+            "name": "Peanut Butter Cookies",
+            "type": "Dessert",
+            "ingredients": [
+                {
+                    "ingredientText": "1/2 cup butter or margarine, softened",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1/2 cup sugar",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1/2 cup peanut butter",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1 egg",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1/2 teaspoon vanilla",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1-1/4 cup all-purpose flour",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "1/2 teaspoon baking soda",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "1/2 teaspoon baking powder",
+                    "index": 7
+                }
+            ],
+            "directions": [
+                "In a mixing bowl, cream butter and sugars",
+                "Add peanut butter, egg, and vanilla; beat until smooth",
+                "Combine the flour, baking soda and baking powder; add to the cramed mixture and mix well",
+                "For easier shaping, chill the dough for 1 hour",
+                "Shape into 1-inch balls; place 2 inches apart on ungreased baking sheets",
+                "Flatten each ball by crisscrossing with the tines of a fork dipped in sugar",
+                "Bake at 375 degrees for 10-12 minutes or until botoms ar elightly browned and cookies are set",
+                "Yield: about 4 dozen"                
+            ],
+            "creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image": ""
+        },
+        {
+            "id": "20",
+            "name": "Banana Pudding Dessert",
+            "type": "Dessert",
+            "ingredients": [
+                {
+                    "ingredientText": "1 package (8 oz) cream cheese, softened",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 can (14 oz) sweetened condensed milk",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 package (3.4 oz) instant vanilla pudding mix",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1 carton (8 oz) frozen whipped topping, thawed",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "52 vanilla wafers",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "4 medium firm bananas, sliced",
+                    "index": 5
+                }
+            ],
+            "directions": [
+                "In a mixing bowl, beat cream cheese until smooth",
+                "Beat in condensed milk; set aside",
+                "In another bowl, whisk milk and pudding mix; add to cream cheese mixture",
+                "Fold in whipped topping",
+                "Arrange a  third of the vanilla wafers in a 2-1/2 quart glass bowl",
+                "Top with a third of the bananas and pudding mixture",
+                "Repeat layers twice",
+                "Refrigerate until serving",
+                "Yield: 10-12 servings"
+            ],
+            "creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image": ""
+        },
+        {
+            "id": "21",
+            "name": "Chocolate Carmel Cookies",
+            "type": "Dessert",
+            "ingredients": [
+                {
+                    "ingredientText": "1 cup butter(no substitutes), softened",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 cup plus 1 tablespoon sugar, divided",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 cup packed brown sugar",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "2 eggs",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1 teaspoons vanilla",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "2-1/2 cups all-purpose flour",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "1 teaspoon baking soda",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "1 cup chopped pecans, divided (I don't use the pecans)",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "1 package (13 oz) Rolo candies",
+                    "index": 8
+                },
+                {
+                    "ingredientText": "3/4 cup baking cocoa",
+                    "index": 9
+                }
+            ],
+            "directions": [
+                "In a mixing bowl, cram butter, 1 cup sugar and brown sugar",
+                "Add eggs and vanila; mix well",
+                "Combine flour, cocoa and baking soda;; add to the cramed mixture and beat just until combined",
+                "Stir in 1/2 cup pecans",
+                "Shape dough by tablespoonfuls around each candy",
+                "In a smal bowl, combine remainng pecans and sugar; dipeach cookie halfway",
+                "Place with nut side up on an ungreased baking sheets",
+                "Bake at 375 degrees for 7-10 minutes or until top is slightly cracked",
+                "Cool for 3 minutes; remove to wire racks to cool completely",
+                "Yield: about 5 dozen"
+            ],
+            "creditTo": "Quick Cooking 1999 Annual",
+            "creator": "mamalinda",
+            "image": ""
+        },
+        {
+            "id": "22",
+            "name": "Sheet Pan Sausage and Veggies",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "12-16 oz kielbasa or smoked sausage",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "2 cups 1/2 in diced potatoes or sweet potatoes",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "2 cups broccoli florets",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1 cup bell pepper chopped",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "2 cloves garlic minced ",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "2 tablespoons olive oil",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "1 tablespoon Italian seasoning or other seasoning",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "1/2 teaspoon salt",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "1/2 teaspoon black pepper",
+                    "index": 8
+                },
+                {
+                    "ingredientText": "Other veggies like carrots, onions, and zucchini are good",
+                    "index": 9
+                }
+            ],
+            "directions": [
+                "Heat oven to 400 degrees F",
+                "Slice sausage into 1 in rounds",
+                "dice potatoes into 1/2 in cubes",
+                "chop veggies",
+                "mix ingredients until evenly combined",
+                "put in a sheet pan",
+                "Bake for 20 min flipping halfway"
+            ],
+            "creditTo": "gimmedelicious.com",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "23",
+            "name": "Caramelized Apples",
+            "type": "Dessert",
+            "ingredients": [
+                {
+                    "ingredientText": "2 whole apples ",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "2 tbsp unsalted butter",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "3 tbsp brown sugar",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "pinch of cinnamon ",
+                    "index": 3
+                }
+            ],
+            "directions": [
+                "Peel and core apples",
+                "Cut each apple into quarters and each quarter into quarters",
+                "Melt butter over medium high heat",
+                "Once butter has almost melted, add brown sugar followed by the apples",
+                "Cook and toss apples until they are nicely caramelized on all sides and tender",
+                ""
+            ],
+            "creditTo": "rouxbe.com",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "24",
+            "name": "Crispy Roasted Chickpeas",
+            "type": "Snack",
+            "ingredients": [
+                {
+                    "ingredientText": "1 1/2 cups cooked chickpeas drained and rinsed",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "extra virgin olive oil for drizzling ",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "sea salt",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "pinches of favorite spices ",
+                    "index": 3
+                }
+            ],
+            "directions": [
+                "Heat oven to 425 F and line a baking sheet with parchment paper",
+                "Spread chickpeas on towel and pat them dry, removing any loose skins",
+                "Toss chickpeas in olive oil drizzle and generous pinches of salt and put in pan",
+                "Roast chickpeas for 20-40 minutes or until golden brown and crisp",
+                "Remove from oven and while still warm, toss with favorite spices"
+            ],
+            "creditTo": "Lovelandlemons.com",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "25",
+            "name": "Baked Oatmeal Cups",
+            "type": "Breakfast",
+            "ingredients": [
+                {
+                    "ingredientText": "1/2 cup unsweetened applesauce or mashed banana",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "2 whole eggs",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1/3 cup peanut butter",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1/4 cup brown sugar",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1 1/4 cups milk",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1 tsp vanilla extract",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "3 cups old fashioned oats",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "1 tsp baking powder ",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "1 tsp cinnamon ",
+                    "index": 8
+                },
+                {
+                    "ingredientText": "1/3 cup mini chocolate chips or dried fruit",
+                    "index": 9
+                },
+                {
+                    "ingredientText": "1 Tbsp butter melted",
+                    "index": 10
+                }
+            ],
+            "directions": [
+                "Preheat oven to 350 degrees F",
+                "Spray a 12 cup muffin tin with non stick spray or line with paper liners",
+                "In a bowl mix together apple sauce, eggs, peanut butter, brown sugar, vanilla and milk until well combined",
+                "In a separate bowl mix together oats, baking powder, cinnamon and chocolate chips",
+                "Slowly add oat mixture to the wet ingredients until combined",
+                "Add in melted butter and stir to combine",
+                "Divide batter evenly between the 12 muffin cups",
+                "Make sure there is equal amount of liquid in each cup",
+                "Top with chocolate chips and bake for 18-20 minutes until they are set and starting to turn golden brown on top",
+                "Remove from oven and let sit for 5 minutes before removing from the pan to a wire rack to cool completely",
+                "Once cool store in an air tight container in the fridge for up to a week"
+            ],
+            "creditTo": "dinnersdishesanddesserts.com",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "26",
+            "name": "Protein Balls",
+            "type": "Breakfast",
+            "ingredients": [
+                {
+                    "ingredientText": "1/2 cup mini chocolate chips",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 cup old fashioned oats",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1/2 peanut butter",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1/2 cup ground flax seed",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1/3 cup honey",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1/2 cup pumpkin or sunflower seeds or mix",
+                    "index": 5
+                }
+            ],
+            "directions": [
+                "Mix together",
+                "Chill 1-2 hours",
+                "Roll out or press",
+                "Lasts in fridge 1 week or in freezer up to 3 months"                
+            ],
+            "creditTo": "Shea Cozort",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "27",
+            "name": "Instant Pot  Chicken and Sausage Jambalya with Shrimp",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "2 tablespoonsolive oil",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "2 chicken breast cubed ",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1/2  cup butter",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1 onion diced",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1 green pepper  diced",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "2-3 ribs celery",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "13 oz Andouille or pork thinly sliced",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "3 tsp minced garlic",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "2 cups chicken broth",
+                    "index": 8
+                },
+                {
+                    "ingredientText": "1 heaping tablespoon Creole seasoning",
+                    "index": 9
+                },
+                {
+                    "ingredientText": "28 oz stewed tomatoes ( I use crushed)",
+                    "index": 10
+                },
+                {
+                    "ingredientText": "2 bay leaves",
+                    "index": 11
+                },
+                {
+                    "ingredientText": "1 pound large peeled and deveined",
+                    "index": 12
+                },
+                {
+                    "ingredientText": "I  double the veggies. Ifit is not spicy enough you can add 1/2 tsp pepper and 1 tsp  Cayenne pepper (I tried it with them and it was too hot)",
+                    "index": 13
+                }
+            ],
+            "directions": [
+                "Add the oil and chicken to instant pot and  click saute-  cook until browned",
+                "Add the butter, onion, green pepper, and celery- stir and cook",
+                "Add the sausage and garlic- stir",
+                "Add 1/2 cup broth and deglaze the pot well\nAdd the rest of the chicken broth, rice, seasonings and stewed tomatoes- stir",
+                "Place the bay leaves on top and close the instant pot",
+                " Make sure the pressure valve is in the closed position",
+                "Pressure cook on high for 7 minutes",
+                "Do quick release and open the instant pot",
+                "Add the shrimp and close the  instant pot again- let the residual heat  ook the shrimp for 10 minutes",
+                "Open, remove bay leaves, stir and stir"
+            ],
+            "creditTo": "",
+            "creator": "mamalinda",
+            "image": ""
+        },
+        {
+            "id": "28",
+            "name": "Oven Baked Chicken Breasts",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "5 to 6 chicken breasts (thawed)",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "2 Tbsp Olive Oil",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 tsp Italian Seasoning",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1/2 tsp seasoning salt",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1/4 tsp paprika ",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1/4 tsp black pepper",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "optional: rosemary, lemon juice, oregano",
+                    "index": 6
+                }
+            ],
+            "directions": [
+                "preheat oven 400 F",
+                "toss chicken in olive oil and seasonings",
+                "place in a lightly greased pan",
+                "bake for 22-26 minutes (22 for smaller; 26 for larger) until internal temp reaches 165 F",
+                "rest for 5 minutes before slicing"
+            ],
+            "creditTo": "some website",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "29",
+            "name": "Slow Cooker Country Style Pork Ribs ",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "3 lb country-style pork loin ribs",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1/3 cup packed dark brown sugar",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 Tbsp chili powder",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1 tsp salt",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1 tsp coarse ground black pepper",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "2 cups ketchup ",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "1/2 cup cider vinegar",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "3 Tbsp spicy brown mustard",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "3 Tbsp Worchestrshire sauce",
+                    "index": 8
+                },
+                {
+                    "ingredientText": "1 Tbsp liquid smoke",
+                    "index": 9
+                }
+            ],
+            "directions": [
+                "Spray 4-5 quart slow cooker with cooking spray or use alow cooker bag",
+                "Place ribs in slow cooker",
+                "mix together remaining ingredients and pour over ribs",
+                "ook on low for 9-10 hours"
+            ],
+            "creditTo": "Mama",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "30",
+            "name": "Crockpot Little Smokies",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "2 12-14 oz packages of little smokies",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 1/2 cups bbq sauce",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1/2 cup ketchup",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1/2 cup brown sugar",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1 tablespoon Worchestershire sauce",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1/4 teaspoon onion powder",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "1/4 teaspoon garlic powder",
+                    "index": 6
+                }
+            ],
+            "directions": [
+                "Place little smokies into a crockpot",
+                "Whisk everything else together in a separate bowl",
+                "Poor sauce over little smokies",
+                "Cook on low for at least 2 hours",
+                "(or high if doubling recipe)"
+            ],
+            "creditTo": "dinneratthezoo.com",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "31",
+            "name": "Slow Cooker Teriyaki Chicken",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "1 1/2 pounds boneless skinless chicken breasts",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "2 teaspoons garlic minced",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "2 teaspoons ginger minced (ground works too)",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1/4 cup honey",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "3 tablespoons brown sugar",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1/2 cup low sodium soy sauce",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "2 teaspoons toasted sesame oil",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "2 tablespoons rice vinegar (apple cider vinegar works too)",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "1/4 cup cold water",
+                    "index": 8
+                },
+                {
+                    "ingredientText": "1 tablespoon sesame seeds",
+                    "index": 9
+                },
+                {
+                    "ingredientText": "2 tablespoons sliced green onions",
+                    "index": 10
+                },
+                {
+                    "ingredientText": "2 tablespoons cornstarch",
+                    "index": 0
+                }
+            ],
+            "directions": [
+                " place chicken breasts in slow cooker",
+                " In a small bowl, whisk together the garlic, ginger, honey, brown sugar, soy sauce, sesame oil, and vinegar. I double the sauce recipe",
+                " Pour soy sauce mixture over chicken",
+                " Cover and cook on HIGH for 4-5 hours or LOW for 8 hours",
+                " Remove Chicken from slow cooker and shred with two forks",
+                " Pour teriyaki sauce from slow cooker through a strainer into a sauce pan",
+                " Place saucepan on the stove over medium high heat and bring to a simmer",
+                " In a small bowl mix the cornstarch with the water until dissolved",
+                " Pour cornstarch into the pan and brind to a boil",
+                " Cook for 1-2 minutes or until sauce has just thickened",
+                " Pour sauce over the shredded chicken and toss to coat",
+                " Sprinkle with sesame seeds and green onions and serve"
+            ],
+            "creditTo": "dinneratthezoo.com",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "32",
+            "name": "Instant Pot Chicken Broccoli Rice Casserole",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "1 tablespoon Olive oil",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "2 tablespoons unsalted butter",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 med onion chopped",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1 1/2 pounds chicken breast, cubed",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1 1/4 tsp kosher salt or 3/4 tsp table salt",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1/2 tsp pepper",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "1 tsp garlic powder",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "1/2 tsp onion powder",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "1/4 thyme leaves",
+                    "index": 8
+                },
+                {
+                    "ingredientText": "3 cloves minced garlic",
+                    "index": 9
+                },
+                {
+                    "ingredientText": "1 1/2 cups long grain white rice",
+                    "index": 10
+                },
+                {
+                    "ingredientText": "2 1/2 cups chicken broth",
+                    "index": 11
+                },
+                {
+                    "ingredientText": "2 1/2 cups shredded cheddar cheese",
+                    "index": 12
+                },
+                {
+                    "ingredientText": "2 pounds frozen broccoli florets",
+                    "index": 13
+                }
+            ],
+            "directions": [
+                " Turn on the Sauté setting",
+                " When it is hot, add the olive oil and butter",
+                " Add the onion and cook for about 3 minutes, stirring occasionally, until starting to turn translucent",
+                " Add the chicken",
+                " Sprinkle the salt, pepper, garlic powder, onion powder, and thyme over it",
+                " Stir",
+                " Cook, stirring occasionally until just the outside of the chicken turns white",
+                " Add the minced garlic and stir",
+                " Add the rice and broth",
+                " Do not stir",
+                " Gently press the rice and chicken into the broth, then put the lid on the pressure cooker and set the steam release knob to the Sealing position",
+                " Turn off the Sauté setting",
+                " Press the Pressure Cook/Manual button or dial, then select 3 minutes on High Pressure",
+                " The pot will take several minutes to come to pressure",
+                " When the Chicken and rice is cooking, run the frozen broccoli under hot water and drain",
+                " Set aside",
+                " If using fresh broccoli, you may need to microwave it with a little water to soften it, as it won't cook in the pot with the residual heat",
+                " If the florets are large, cut them in half",
+                " When the cook cycle has finished, turn off pot and let it sit undisturbed for 10 minutes (10 minutes natural release)",
+                " Then turn the steam release knob to the Venting position to release the remaining steam/pressure",
+                " Open Lid when pin in lid drops",
+                " Stir in cheese",
+                " Add broccoli florets, stir, and close the lid so it cooks in the residual heat of the rice/chicken",
+                " (might need to cook the frozen florets if not thawed all the way)",
+                " Serve",
+                " Makes good leftovers"
+            ],
+            "creditTo": "simplyhappyfoodie.com",
+            "creator": "Daniel",
+            "image": ""
+        },
+        {
+            "id": "33",
+            "name": "Granola ",
+            "type": "Breakfast",
+            "ingredients": [
+                {
+                    "ingredientText": "4 cups old fashioned rolled oats",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1 1/2 cups raw nuts and or seeds",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "1 tsp fine grain sea salt or 3/4 tsp table salt",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1/2 tsp ground cinnamon ",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1/2 cup melted coconut oil or olive oil",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "1/2 cup maple syrup or honey",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "1 tsp vanilla extract",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "2/3 cup dried fruit, chopped if large ",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "optional 1/2 cup chocolate chips",
+                    "index": 8
+                }
+            ],
+            "directions": [
+                " Preheat oven to 350 degrees Fahrenheit and line a large, rimmed baking sheet with parchment paper",
+                " In a large mixing bowl, combine the oats, nuts and/or seeds, salt and cinnamon",
+                " Stir to blend",
+                " Pour in the oil, maple syrup and/or honey and vanilla",
+                " Mix well, until every oat and nut is lightly coated",
+                " Pour the granola onto your prepared pan and use a large spoon to spread it in an even layer",
+                " Bake until lightly golden, about 21 to 24 minutes, stirring halfway (for extra-clumpy granola, press the stirred granola down with your spatula to create a more even layer)",
+                " The granola will further crisp up as it cools",
+                " Let the granola cool completely, undisturbed (at least 45 minutes)",
+                " Top with the dried fruit (and optional chocolate chips, if using)",
+                " Break the granola into pieces with your hands if you want to retain big chunks, or stir it around with a spoon if you don’t want extra-clumpy granola",
+                " Store the granola in an airtight container at room temperature for 1 to 2 weeks, or in a sealed freezer bag in the freezer for up to 3 months",
+                " The dried fruit can freeze solid, so let it warm to room temperature for 5 to 10 minutes before serving"
+            ],
+            "creditTo": "https://cookieandkate.com/healthy-granola-recipe/#tasty-recipes-23967-jump-target",
+            "creator": "Daniel",
+            "image": ""
         }
     ]
 }
