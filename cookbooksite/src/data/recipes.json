@@ -1,0 +1,27 @@
+{
+    "recipesData":[
+        {
+            "id": "1",
+            "name": "Communion Bread",
+            "type": "Pastry",
+            "ingredients": [
+                {
+                    "ingredientText": "1/4 cup flour",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "1/2 tsp oil",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "water",
+                    "index": 2
+                }
+            ],
+            "directions": "1. Combine flour and oil and enough water to make it hold together.\n2. Press into desired thickness and cut into desired sizes\n3. Poke holes\n4. Cook at 350°F until fully cooked",
+            "creditTo": "Mama",
+            "creator": "Daniel",
+            "image": "communionBread.jpeg"
+        }
+    ]
+}
