@@ -18,10 +18,72 @@
                     "index": 2
                 }
             ],
-            "directions": "1. Combine flour and oil and enough water to make it hold together.\n2. Press into desired thickness and cut into desired sizes\n3. Poke holes\n4. Cook at 350°F until fully cooked",
+            "directions": [
+                "Combine flour and oil and enough water to make it hold together.",
+                "Press into desired thickness and cut into desired sizes",
+                "Poke holes",
+                "Cook at 350°F until fully cooked"
+            ],
             "creditTo": "Mama",
             "creator": "Daniel",
             "image": "communionBread.jpeg"
+        },
+        {
+            "id": "2",
+            "name": "Pizza Calzones",
+            "type": "Entree",
+            "ingredients": [
+                {
+                    "ingredientText": "4 cups all-purpose flour",
+                    "index": 0
+                },
+                {
+                    "ingredientText": "4 -1/2 tsp quick-rise yeast",
+                    "index": 1
+                },
+                {
+                    "ingredientText": "2 tsp brown sugar",
+                    "index": 2
+                },
+                {
+                    "ingredientText": "1/4 tsp salt",
+                    "index": 3
+                },
+                {
+                    "ingredientText": "1-1/2 cups water",
+                    "index": 4
+                },
+                {
+                    "ingredientText": "3 tablespoons olive or vegetable oil",
+                    "index": 5
+                },
+                {
+                    "ingredientText": "Pizza or spaghetti sauce",
+                    "index": 6
+                },
+                {
+                    "ingredientText": "Italian sausage, pepperoni, mozzarella cheese , or whatever filling you want",
+                    "index": 7
+                },
+                {
+                    "ingredientText": "1 egg beaten",
+                    "index": 8
+                }
+            ],
+            "directions": [
+                "In a mixing bowl, combine 3 cups flour, yeast, brown sugar, and salt. ",
+                "In a saucepan, heat the water and oil to 120-130 degrees. Add to dry ingredients and beat until smooth. ",
+                "Stir in enough remaining flour to make a soft dough. Turn onto a floured surface; knead until smooth and elastic, about 4 minutes.",
+                "Cover and let rest in a warm place for 15 minutes.",
+                "Divide dough into 8  pieces. On a floured surface, roll each piece into a 7-inch circle.",
+                "On half, place sauce and any other filling ingredients.",
+                "Fold dough over filling; pinch seams to seal.",
+                "Combine flour and oil and enough water to make it hold together.",
+                "Yield:8 servings "
+            ],
+            "creditTo": "Modified from Quick Cooking Annual 2002",
+            "creator": "mamalinda",
+            "image": "calzone.jpeg"
         }
     ]
 }
